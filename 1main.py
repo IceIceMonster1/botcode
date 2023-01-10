@@ -54,4 +54,4 @@ async def on_message(message, arg1, arg2):
         #elysia 
         print("elysia")
         
-client.run("MTA0NDgwMjU4ODMyNDkzMzcwMw.G1EPVJ.TzOyY2uGWw12QXGp2civRKjO9fPNTC3YCJkaqE")
+client.run(".")
